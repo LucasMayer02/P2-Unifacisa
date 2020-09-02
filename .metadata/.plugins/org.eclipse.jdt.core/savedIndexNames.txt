@@ -1,3 +1,2 @@
 INDEX VERSION 1.131+C:\Users\lucas_6yr2ya1\OneDrive\Área de Trabalho\faculdade\.metadata\.plugins\org.eclipse.jdt.core
 2315417203.index
-3117245921.index
