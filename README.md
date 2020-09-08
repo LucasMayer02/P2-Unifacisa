@@ -12,3 +12,5 @@ Repositório para depositar resumos e exercícios da cadeira de Programação II
 [4 - Estruturas de Repetição](conteudos/EstruturasDeRepeticao.md)
 
 [# Uso do Scanner](conteudos/UsoDoScanner.md)
+
+[5 - Classes, Objetos e Construtores](conteudos/ClassesObjetosConstrutores.md)
