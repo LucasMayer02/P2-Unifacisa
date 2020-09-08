@@ -10,3 +10,5 @@ Repositório para depositar resumos e exercícios da cadeira de Programação II
 [3 - Estruturas Condicionais](conteudos/EstruturasCondicionais.md)
 
 [4 - Estruturas de Repetição](conteudos/EstruturasDeRepeticao.md)
+
+[# Uso do Scanner](conteudos/UsoDoScanner.md)
