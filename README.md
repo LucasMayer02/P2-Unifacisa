@@ -14,3 +14,5 @@ Repositório para depositar resumos e exercícios da cadeira de Programação II
 [# Uso do Scanner](conteudos/UsoDoScanner.md)
 
 [5 - Classes, Objetos e Construtores](conteudos/ClassesObjetosConstrutores.md)
+
+[6 - Variáveis/Métodos de Instância e de Classe](conteudos/VariaveisMetodosIntanciaClasse.md)
